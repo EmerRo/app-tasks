@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.tarea{
+  margin-right: 80px ;
+  display: flex;
+  
+}
